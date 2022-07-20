@@ -1,1 +1,3 @@
-let a = 10
+let a = 4
+let b = a**a
+console.log(b)
